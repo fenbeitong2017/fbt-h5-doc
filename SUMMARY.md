@@ -1,4 +1,4 @@
 # Summary
 
-* [文档简介](README.md)
+* [关于分贝通开放平台](README.md)
 
